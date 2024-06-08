@@ -1,0 +1,23 @@
+/* .search {
+} */
+
+.formSearch {
+  margin: 10px auto;
+  justify-content: center;
+}
+
+.btn {
+  line-height: 1.2;
+  padding: 5px;
+  width: 60px;
+}
+
+.inpt {
+  width: 250px;
+}
+
+.inpt,
+.btn {
+  height: 30px;
+  border: 1px solid #ffa500;
+}

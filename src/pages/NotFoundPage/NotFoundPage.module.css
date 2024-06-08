@@ -1,0 +1,14 @@
+.container {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text {
+  font-size: 22px;
+}
+
+.linkToHome {
+  color: blue;
+  font-size: 30px;
+  text-decoration: underline;
+}
